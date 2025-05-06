@@ -31,7 +31,7 @@ int main()
       if (i == j) {
         cout <<  matriz[i][j] << "\t";
       } else {
-        cout << setw(5);
+        cout << "\t";
       }
     }
     cout << endl;
